@@ -1,4 +1,4 @@
-## **Actividad:** Obtención de Estadística Descriptiva
+## Herramientas computacionales: el arte de la analítica
 
 ### Equipo 4 - Integrantes:
 
